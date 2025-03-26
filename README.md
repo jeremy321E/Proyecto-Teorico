@@ -19,9 +19,12 @@
  <img src="https://github.com/jeremy321E/Proyecto-Teorico/blob/main/img/1.jpeg?raw=true" alt="" width=150>
  <img src="https://github.com/jeremy321E/Proyecto-Teorico/blob/main/img/2.jpeg?raw=true" alt="" width=150>
  <img src="https://github.com/jeremy321E/Proyecto-Teorico/blob/main/img/3.jpeg?raw=true" alt="" width=150>
- <img src="https://github.com/jeremy321E/Proyecto-Teorico/blob/main/img/4.jpeg?raw=true" alt="" width=150>
+
+
+</p>
+<p>
+  <img src="https://github.com/jeremy321E/Proyecto-Teorico/blob/main/img/4.jpeg?raw=true" alt="" width=150>
  <img src="https://github.com/jeremy321E/Proyecto-Teorico/blob/main/img/5.jpeg?raw=true" alt="" width=150>
  <img src="https://github.com/jeremy321E/Proyecto-Teorico/blob/main/img/6.jpeg?raw=true" alt="" width=150>
-
 </p>
 
