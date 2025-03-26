@@ -8,29 +8,19 @@
 ><p>Aplicación realizada </p>
 >👉 <a href="img/appProducto.apk">  Descargar Ahora</a> 👈 
 <br>
-<h2>App Gneral</h2>
- <img src="https://github.com/user-attachments/assets/58c7e182-10a0-4845-afda-970b46fc72ad" alt="Animación" width="150" />
-
-<br><br><br>
-
->[!NOTE]
-><h2 style= "padding: 10px; margin: 10px;">App Adivinar Número 📱</h2>
-
-<img src="" alt="">
-
 
 >[!IMPORTANT]
 > <p style="text-align: justify; margin: 10px; padding: 10px; font-size: 1.5rem; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">La aplicación <strong>Adivina el Número</strong> , desarrollada en Android Studio, es un excelente ejemplo de implementación de lógica algorítmica y manejo de eventos en tiempo real. Utiliza estructuras de control para gestionar intentos y proporcionar retroalimentación, demostrando un sólido conocimiento técnico. La interfaz sigue principios de diseño centrado en el usuario, lo que fomenta habilidades blandas como la comunicación efectiva. Este proyecto es ideal para desarrolladores que desean afinar sus habilidades en programación y diseño de experiencias interactivas.</p>
  <div style="display: flex; justify-content: center; gap: 1rem; width: 90%; margin: 0 auto;">
     <img src="https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/app/src/main/res/drawable/WhatsApp%20Image%202024-12-05%20at%202.16.31%20PM.jpeg?raw=true" width="150" >
  
-</div>
-<br><br><br><br>
+<p>
+ <img src="" alt="" width=150>
+ <img src="" alt="" width=150>
+ <img src="" alt="" width=150>
+ <img src="" alt="" width=150>
+ <img src="" alt="" width=150>
+ <img src="" alt="" width=150>
 
->[!NOTE]
-><h2 >Calculadora  <img src="https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/imagenes/img_calculadora.png?raw=true" width=25> </h2>
+</p>
 
->[!IMPORTANT]
-> <p style="text-align: justify; margin: 10px; padding: 10px; font-size: 1.5rem; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">La aplicación <strong>Calculadora Avanzada</strong> , destaca por su robustez y eficiencia. Utiliza técnicas de programación orientada a objetos y patrones de diseño como MVVM, asegurando un código limpio y mantenible. Además, incorpora  funciones personalizadas, lo que demuestra un dominio técnico notable. La interfaz está diseñada con principios de usabilidad y accesibilidad, fomentando habilidades blandas como la empatía hacia el usuario. Esta app es un excelente recurso para desarrolladores que buscan perfeccionar sus competencias técnicas y de diseño.</p>
-
-<img src="https://github.com/DarwinChamba/AplicacionesEnClase/blob/master/app/src/main/res/drawable/img_calculadora_app.jpeg?raw=true" alt="" width=150>
